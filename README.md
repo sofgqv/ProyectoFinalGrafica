@@ -1,4 +1,4 @@
-# Computacación Grafica 2024-2: Proyecto Final 
+# Computación Grafica 2024-2: Proyecto Final 
 
 ### Milloshy Crisostomo, Sofía García, Paola Maguiña
 
