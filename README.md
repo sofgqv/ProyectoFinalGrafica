@@ -11,7 +11,7 @@
   ```
   En caso alguna ya esté instalada, **actualizar a la última versión**.
   
-3. Clonar este repositorio en una carpeta vacía:
+3. Clonar este repositorio en una carpeta vacía (o descargar el zip):
   ```
   git clone https://github.com/sofgqv/ProyectoFinalGrafica.git
   ```
